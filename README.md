@@ -1,5 +1,5 @@
 # pywren examples
-
+# The examples in this folder seem to be written in Python 2 (see S3_benchmark.py, print statement is not using brackets, the programs are importing cPickle)
 This is a repository of pywren examples, showing how to run various
 example code and generate many of the plots used in blog posts.
 Most examples have an explanation in a `README.md`, a script to run, and
